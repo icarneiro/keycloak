@@ -102,7 +102,7 @@
         <!--JAKARTA-->
         <jakarta.mail.version>2.1.1</jakarta.mail.version>
         <angus.mail.version>2.0.1</angus.mail.version>
-        <jakarta.xml.ws.version>4.0.0</jakarta.xml.ws.version>
+        <jakarta.xml.ws.version>4.0.2</jakarta.xml.ws.version>
         <jakarta.xml.soap.version>3.0.0</jakarta.xml.soap.version>
 
         <servlet.api.30.version>1.0.2.Final</servlet.api.30.version>
@@ -129,7 +129,7 @@
         <woodstox.version>6.0.3</woodstox.version>
         <wildfly.common.quarkus.aligned.version>1.5.4.Final-format-001</wildfly.common.quarkus.aligned.version>
         <wildfly.common.wildfly.aligned.version>1.6.0.Final</wildfly.common.wildfly.aligned.version>
-        <xmlsec.version>2.2.6</xmlsec.version>
+        <xmlsec.version>2.3.4</xmlsec.version>
         <nashorn.version>15.4</nashorn.version>
         <ua-parser.version>1.5.4</ua-parser.version>
         <org.yaml.snakeyaml.version>2.0</org.yaml.snakeyaml.version>
@@ -278,7 +278,7 @@
         </developer>
     </developers>
 
-    <contributors></contributors>
+    <contributors/>
 
     <modules>
         <module>boms</module>
